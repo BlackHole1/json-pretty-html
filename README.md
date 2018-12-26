@@ -4,7 +4,13 @@
 [![MIT][license-badge]][LICENSE]
 [![Node.js version][nodejs-badge]][nodejs]
 
-# json-pretty-html
+# json-pretty-html-fix
+
+**This package exists to temporarily solve the `json-pretty-html` project error. When the `json-pretty-html` project solves this problem, there is no need to continue using the package.**
+
+Whether the `json-pretty-html` project solves the problem status: `false`
+
+error details: https://github.com/amelki/json-pretty-html/issues/7
 
 Transforms a JSON object into an HTML string. Allows selecting a subset of the object and highlight it with a CSS class.
 
