@@ -6,9 +6,11 @@
 
 # json-pretty-html-fix
 
-**This package exists to temporarily solve the `json-pretty-html` project error. When the `json-pretty-html` project solves this problem, there is no need to continue using the package.**
+This package exists to temporarily solve the `json-pretty-html` project error. When the `json-pretty-html` project solves this problem, there is no need to continue using the package.
 
-Whether the `json-pretty-html` project solves the problem status: `false`
+**Please don't install this package, the original author has fixed this error.**
+
+Whether the `json-pretty-html` project solves the problem status: `true`
 
 error details: https://github.com/amelki/json-pretty-html/issues/7
 
@@ -32,7 +34,7 @@ var json = {
     "longitude": 20.4
   }
 };
-var prettyHtml = require('json-pretty-html').default;
+var prettyHtml = require('json-pretty-html-fix').default;
 var html = prettyHtml(json, json.dimensions);
 ```
 

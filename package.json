@@ -34,7 +34,7 @@
     "test-only": "jest --coverage",
     "test:watch": "jest --watch"
   },
-  "author": "Antoime Melki <adonf156@gmail.com>",
+  "author": "Black-Hole <158blackhole@gmail.com>",
   "license": "MIT",
   "keywords": [
     "json",
@@ -45,11 +45,11 @@
   "main": "dist/bundle.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/amelki/json-pretty-html.git"
+    "url": "https://github.com/BlackHole1/json-pretty-html.git"
   },
   "bugs": {
-    "url": "https://github.com/amelki/json-pretty-html/issues"
+    "url": "https://github.com/BlackHole1/json-pretty-html/issues"
   },
-  "homepage": "https://github.com/amelki/json-pretty-html#readme",
+  "homepage": "https://github.com/BlackHole1/json-pretty-html#readme",
   "tonicExampleFilename": "tonicExample.js"
 }
